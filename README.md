@@ -16,13 +16,13 @@ Don't forget to edit `mc.cfg`.
 ./start.sh
 ```
 
-##Stopping the server
+## Stopping the server
 
 ```
 ./stop.sh
 ```
 
-##Accessing the console
+## Accessing the console
 
 ```
 screen -r minecraft
