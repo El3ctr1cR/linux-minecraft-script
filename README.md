@@ -1,4 +1,4 @@
-# Linux Minecraft Script
+# Linux Minecraft Scripts
 
 Just a few simple scripts for a minecraft server on Linux.
 
