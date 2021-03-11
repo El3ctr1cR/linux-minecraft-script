@@ -1,1 +1,3 @@
-# linux-minecraft-script
+# Linux Minecraft Script
+
+Test
