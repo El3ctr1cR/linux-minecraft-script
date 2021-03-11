@@ -6,7 +6,7 @@ Just a few simple scripts for a minecraft server on Linux.
 
 In order to use these scripts, the repository has to be cloned. Prerequisites: `git`, `screen` and `java`.
 ```
-git clone https://github.com/cranstonide/linux-minecraft-scripts
+git clone https://github.com/El3ctr1cR/linux-minecraft-script/
 ```
 Don't forget to edit `mc.cfg`.
 
