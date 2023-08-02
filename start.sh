@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd "$( dirname $0 )"
-source mc-config.cfg
+source mc.cfg
 cd $minecraftDir
 
-screen -dmS minecraft java -Xmx14336M -Xms14336M -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=7 -XX:+AggressiveOpts -jar $minecraftJar nogui
+screen -dmS $serverNick java $launchOptions -jar $minecraftJar nogui

@@ -2,8 +2,8 @@
 
 cd "$( dirname $0 )"
 
-source mc-config.cfg
+source mc.cfg
 
-source mc-stop.sh
+source stop.sh
 
-source mc-start.sh
+source start.sh
